@@ -1,0 +1,11 @@
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\bin\Debug\net7.0\CRUD.Shared.deps.json
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\bin\Debug\net7.0\CRUD.Shared.dll
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\bin\Debug\net7.0\CRUD.Shared.pdb
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\CRUD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\CRUD.Shared.AssemblyInfoInputs.cache
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\CRUD.Shared.AssemblyInfo.cs
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\CRUD.Shared.csproj.CoreCompileInputs.cache
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\CRUD.Shared.dll
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\refint\CRUD.Shared.dll
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\CRUD.Shared.pdb
+D:\BlazorMyOwnProjects\CRUD\CRUD\CRUD\Shared\obj\Debug\net7.0\ref\CRUD.Shared.dll
